@@ -28,8 +28,11 @@ Venire
         * Systematic does mean that it comes from government action (i.e. not a natural disaster) 
     4. No sufficiently important government interest in the exclusion outweighs the defendant’s interest in a fair cross-section
 
-## Jury Size
-## Unanimity
+## Jury Size & Unanimity
+
+* Juries must have at least 6 members
+* The constitution does not require that jury verdicts be unanimous
+    - *unless* the jury only has 6 members
 
 ## Jury Selection
 
@@ -68,7 +71,7 @@ Actual prejudice
 #### Batson
 
 * Swain v. Alabama—supreme court held that if a defendant could show that over time in a number of cases, prosecutors were removing African American jurors in cases against African American defendants that would be a prima facie case of equal protection violation.
-* Batson rejected the idea that defendants have to rpvoe that this is going on over multiple cases.
+* Batson rejected the idea that defendants have to prove that this is going on over multiple cases.
 * The defendant can prove bias in a single case by satisfying a multi-step test:
     - Prima facie showing:
         * Plaintiff must prove that he or she is a member of a cognizable racial group
@@ -78,4 +81,5 @@ Actual prejudice
     - Then the burden shifts to the prosecution to provide a race neutral explanation
     - If the prosecutor clears this hurdle, the defendant can argue that the prosecutor’s stated motive was pre-textual
     - Then the court makes a finding as to whether or not this was racially motivated
+* Prima facie case is lower than a preponderance standard
 * *Powers v. OH* removes the “of the defendant’s race” language from the second part of the Batson test. Batson challenges can be cross-racial.
