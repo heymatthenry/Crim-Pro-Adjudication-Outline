@@ -4,12 +4,15 @@
 
 ## Right to Jury Trial
 
+* ∆ is entitled to a jury trial if sentencing exposure is greater than six months.
+* Under Fed. Rules, right is waivable by ∆ if the government consents and the court approves.
+
 Venire
 : the large group drawn together to serve as potential prospective–From that venire, individual petit juries are selected
 
 * Fair Cross Section
-    * *Taylor v. Louisiana*—guarantees the defendant a representative fair cross-section of the community.  The 6th amendment says nothing about this but the S.Ct. read this requirement into the constitution
-        a.  Challenged a law that presumed men to be eligible to serve on juries but said that women would be eligible only if they filed a written declaration of their desire to serve.
+    * *Taylor v. Louisiana*—guarantees the defendant a representative fair cross-section of the community. The 6th amendment says nothing about this but the S.Ct. read this requirement into the constitution
+        a. Challenged a law that presumed men to be eligible to serve on juries but said that women would be eligible only if they filed a written declaration of their desire to serve.
     * The guarantee is for a *venire* representing the community, not a petit jury
 * *Duren* test for cross section rights
     1. Group is distinctive
@@ -30,9 +33,11 @@ Venire
 
 ## Jury Size & Unanimity
 
+* Fed rules require 12 jurors & verdicts must be unanimous.
 * Juries must have at least 6 members
 * The constitution does not require that jury verdicts be unanimous
     - *unless* the jury only has 6 members
+    - Court has approved a conviction when 9/12 jurors voted to convict.
 
 ## Jury Selection
 
@@ -46,20 +51,20 @@ Actual prejudice
 
 * *Rideau v. Louisiana*—extreme cases of publicity (extra-judicial information not in the record) can mandate a change of venue.
     * Simple fact of jurors awareness of pre-trial publicity does not madate change of venue and if such a jurr were to sit on a jury it would not necessarily be a constitutional violation.
-    * Constitution does not mandate in-depth voir dire (*Mu’Min v. VA*); courts have lots of discretion in doing voir dire.  No constitutional obligation to find out what the juror saw or heard about the case.
+    * Constitution does not mandate in-depth voir dire (*Mu’Min v. VA*); courts have lots of discretion in doing voir dire. No constitutional obligation to find out what the juror saw or heard about the case.
     * They must only ask the questions the court feels are appropriate to make a finding that the juror can or cannot make an unbiased determination about the case.
 * When the case in chief or the defense has something to do with issues of race or ethnicity, there is a constitutional right to voir dire questions that at least probe the issue of whether race and ethnicity will affect the jurors’ ability to fairly reach a verdict
     * *Hamm v. S.C.*—the defense asks that the court to question the jury during voir dire about racial prejudice and the fact that the defendant had a beard.
-    * This case took place in the time of the black power movement.  Use of the term black vs. negro is part of the politicization of the terminology and the black power movement.
+    * This case took place in the time of the black power movement. Use of the term black vs. negro is part of the politicization of the terminology and the black power movement.
     * In federal cases, the supreme court held that questions need to be asked about the impact of race in any case that involves cross-racial violence (using their supervisory power)
 
 ### Challenges for Cause
 
-* After voir dire, the attorneys are able to challenge the inclusion of individual jurors.  There is no limit on the number of challenges for cause.
+* After voir dire, the attorneys are able to challenge the inclusion of individual jurors. There is no limit on the number of challenges for cause.
 * Challenge for cause are grounded in the due process clause; they are grounded in a claim that this juror harbors a bias or stands in a relationship with a party to the case which would make them an unfair arbiter within the meaning of the due process clause.
-* Actual Bias—subjective  inquiry; there is lodged in this person’s brain and emotional state a real bias.  The existence of a state of mind that leads to an inference that the person will not act with complete impartiality.
-* Implied Bias—objective inquiry; not an inquiry into the mind of the particular individual.  Instead the question is whether an average person in that juror’s position would be biased.  Presumed when the relationship between the juror and the litigation is such that it is highly unlikely that an average person would remain unbiased.
-    * Implied bias is not to be lightly or easily found.  It is to be reserved for the extreme circumstances that leave serious question whether the juror can be fair.
+* Actual Bias—subjective  inquiry; there is lodged in this person’s brain and emotional state a real bias. The existence of a state of mind that leads to an inference that the person will not act with complete impartiality.
+* Implied Bias—objective inquiry; not an inquiry into the mind of the particular individual. Instead the question is whether an average person in that juror’s position would be biased. Presumed when the relationship between the juror and the litigation is such that it is highly unlikely that an average person would remain unbiased.
+    * Implied bias is not to be lightly or easily found. It is to be reserved for the extreme circumstances that leave serious question whether the juror can be fair.
     * It can be shown by a demonstration that the juror is an employee of the prosecuting authority, juror is a close relative of one of the participants in the trial, juror was a witness to some part of the transaction giving rise to the litigation, etc….
 
 ### Peremptory Challenges

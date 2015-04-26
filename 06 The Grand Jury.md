@@ -3,8 +3,8 @@
 ## Generally
 
 * Laypeople determine whether there is probable cause to believe that a crime was committed by the accused.
-* *Shield and Sword*—as a shield it acts as a buffer between the accused and unfounded accusations.  As a sword it functions as an investigative body to gather information and determine whether formal criminal charges should be brought
-    1. GJ can serve as an inquisitorial body with no obligation to consider both sides of a case.  
+* *Shield and Sword*—as a shield it acts as a buffer between the accused and unfounded accusations. As a sword it functions as an investigative body to gather information and determine whether formal criminal charges should be brought
+    1. GJ can serve as an inquisitorial body with no obligation to consider both sides of a case. 
         * Target has no right to appear or present arguments with respect to determination of PC
     2. Because the GJ usually hears the cases presented to it by the Prosecutor, many associate it with the interests of the government. 
         * The accusation is often made that the GJ is not independent and they act as a rubber stamp for prosecutors
@@ -34,7 +34,7 @@
     * Reduces chance that witness will be threatened
 * Secrecy increases chance that witness will step forward and testify freely without fear of retaliation (U.S. v. ProctorGamble)
 * While the witness can invoke the 5th, the GJ can grant immunity and force that person to reveal incriminating information
-* Similar to the preliminary hearing, the return of “no true bill” (lack of PC) is not final and thus no double jeopardy.  Prosecution can reinitiate case through new GJ or through information and preliminary hearing.
+* Similar to the preliminary hearing, the return of “no true bill” (lack of PC) is not final and thus no double jeopardy. Prosecution can reinitiate case through new GJ or through information and preliminary hearing.
 
 ## Procedures
 
@@ -85,7 +85,7 @@
 ## Cases
 
 * *United States v. Williams*
-    * The government is not required to present exculpatory evidence to the grand jury.  When a defendant seeks to overturn an indictment, he must bear the burden of proving his own argument.
+    * The government is not required to present exculpatory evidence to the grand jury. When a defendant seeks to overturn an indictment, he must bear the burden of proving his own argument.
 * *Bank of Nova Scotia v. United States*
     * The court cannot dismiss an indictment for errors in GJ proceedings unless such errors prejudice the defendant
         * Court cannot invoke supervisory powers to circumvent the harmless error standard

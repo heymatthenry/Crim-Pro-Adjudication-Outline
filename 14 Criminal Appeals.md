@@ -9,7 +9,11 @@
     - Mixed questions of fact and law are reviewed based on an **abuse of discretion** standard
         - Unless ∆ did not make a contemporaneous objection, in which case **plain error** review applies, based on the obviousness of the error and the egregiousness of the effect
     - Purely legal issues get **plenary** (de novo, full) review
-* *AZ v. Fulminante*: Some errors defy measurement and are *structural*, e.g.: right to counsel, right to be pro se, right to a public trial, exclusion of jurors of ∆'s race
+* *AZ v. Fulminante*: Some errors defy measurement and are *structural*, e.g.: right to counsel, right to be pro se, right to a public trial, exclusion of jurors of ∆'s race, bad instruction re: reasonable doubt
     * Structural errors require an automatic reversal
+        * Defects in the constitution of the trial mechanism
+        * e.g. Biased judge
     * Trial errors are subject to **harmless error** review 
+        * Can be ascertained by reviewing the record
+        * e.g. Error applying *Bruton*
 * The primary value at stake in criminal appeals is accuracy of outcomes

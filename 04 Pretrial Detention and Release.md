@@ -101,7 +101,7 @@
         3. Characteristics of the Defendant
             - Character, community ties, etc.
             - Under pretrial release at time of offense
-        4.  Nature and seriousness of the danger to the community or specific persons
+        4. Nature and seriousness of the danger to the community or specific persons
 2. If ∆ isn't given RoR, court must impose least restrictive conditions to ensure appearance & public safety
 3. If no conditions will work, ∆ may be detained pending a hearing
     * The issue at the hearing is whether release on any condition or combo of conditions will reasonably ensure the appearance of the defendant and/or the safety of the community
@@ -114,7 +114,7 @@
             * Max sentence of life or death
             * Certain drug offenses (10yrs or more)
             * Any felony case if the D has already been convicted of 2 or more offenses described above
-        2. **OR** on the prosecution's or the court’s motion alleging a risk of flight or risk of obstruction of justice.  
+        2. **OR** on the prosecution's or the court’s motion alleging a risk of flight or risk of obstruction of justice. 
             * If the government’s theory is flight risk they must prove it by a preponderance of the evidence
             * If the government’s theory is danger to the community it must be proved by clear and convincing evidence 
                 * this higher evidentiary burden is meant to implicate the DPC

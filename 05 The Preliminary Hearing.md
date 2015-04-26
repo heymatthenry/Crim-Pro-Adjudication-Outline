@@ -20,10 +20,10 @@
     1. Determination of probable cause to proceed with the prosecution
     2. By the time the person gets to a preliminary hearing there has already been probable cause either through an arrest warrant or through a first appearance “Gerstein Hearing”
 * **Discovery**
-    1.  Criminal discovery is extremely limited so this can be an important opportunity for the defendant
+    1. Criminal discovery is extremely limited so this can be an important opportunity for the defendant
         * Listen carefully and possibly cross examine prosecution witnesses
         * Call prosecution witnesses as defense witnesses if prosecution is unlikely to call them in preliminary hearing, though many judges dislike this tactic.
-    2.  The proof standards at preliminary hearings are lower than those at a full blown trial
+    2. The proof standards at preliminary hearings are lower than those at a full blown trial
         * Hearsay testimony is admissible at a preliminary hearing
             * The prosecution can use this to prevent their key witnesses for trial from testifying at the preliminary hearing
         * The rules of evidence are for the most part suspended during this hearing

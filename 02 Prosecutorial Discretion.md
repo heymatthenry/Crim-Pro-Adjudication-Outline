@@ -75,6 +75,7 @@
 ## Vindictive Prosecution
 
 * Involves DP
+* Presumption: requires preponderance against presumption to rebut
 * Vindictive prosecution: prosecution because ∆ exercised some constitutional right, e.g. seeking death because ∆ woudln't plead.
 * Because of proof problems and because asking prosecutors to explain their motives would implicate separation of powers, courts will presume a vindictive motive, **BUT ONLY** when there is a reasonable likelihood of vindictiveness
 * *Goodwin*: ∆ went to trial & the state decided to seek death. *Not* vindictive because there was a new prosecutor who made the decision to seek death who wasn't involved in the prior negotiation

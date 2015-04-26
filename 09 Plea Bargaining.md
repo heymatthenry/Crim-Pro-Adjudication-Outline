@@ -56,7 +56,7 @@ Agreements for Cooperation
 ### Generally
 
 * Because of the contractual nature of plea agreements, cases arise in which one party claims that the other party breached the agreement.
-* Plea agreements should be in writing and they should be written precisely.  A well written agreement helps the court and reviewing courts determine the nature of the promises made.  When ambiguities arise, the courts apply contract law to interpret the agreement, but because the defendant’s liberty is at stake ambiguities will be resolved against the state.  In other words the courts hold prosecutors to a higher standard.
+* Plea agreements should be in writing and they should be written precisely. A well written agreement helps the court and reviewing courts determine the nature of the promises made. When ambiguities arise, the courts apply contract law to interpret the agreement, but because the defendant’s liberty is at stake ambiguities will be resolved against the state. In other words the courts hold prosecutors to a higher standard.
 
 ### Breach By Prosecutor
 
@@ -64,8 +64,8 @@ Agreements for Cooperation
 
 ### Breach By Defendant
 
-* The Court held that defendant's breach of the plea agreement between the parties removed the double jeopardy bar to prosecution of defendant on the first-degree murder charges that he faced prior to the plea agreement.  
-* The Court held that the double jeopardy clause did not relieve defendant of the consequences of his voluntary choice to challenge the plea agreement.  
+* The Court held that defendant's breach of the plea agreement between the parties removed the double jeopardy bar to prosecution of defendant on the first-degree murder charges that he faced prior to the plea agreement. 
+* The Court held that the double jeopardy clause did not relieve defendant of the consequences of his voluntary choice to challenge the plea agreement. 
 * Pursuant to the terms of the plea agreement, after defendant's challenge failed, the consequences were that defendant was returned the position he occupied prior to execution of the agreement.
 
 

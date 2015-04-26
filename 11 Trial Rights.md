@@ -7,7 +7,7 @@
 * The constitution contains no explicit guarantee of the right to testify
     * This right is implied through the fifth amendment due process guarantee, the sixth amendment compulsory process clause, the sixth amendment right to self-representation, and as a corollary to the fifth amendment ban on self incrimination
 * The defendant also has a right not to testify and the court or prosecuting attorneys may not comment on the refusal to testify
-    * You cannot suggest that the defendant had the burden to prove a fact beyond a reasonable doubt.  That violates the defendant’s right not to have a proof burden cast upon them
+    * You cannot suggest that the defendant had the burden to prove a fact beyond a reasonable doubt. That violates the defendant’s right not to have a proof burden cast upon them
 * Under the 5th amendment the criminal accused has a right to refuse to testify.
     * The prosecutor may not call the defendant as a witness in its case in chief
     * The witness is also allowed to decline to testify in his or her own defense
@@ -28,7 +28,7 @@
 
 ## Confrontation and Cross Examination
 
-* Accused has the right to confront witnesses against him.  This includes the right to physical face to face confrontation and the right to cross examine
+* Accused has the right to confront witnesses against him. This includes the right to physical face to face confrontation and the right to cross examine
 * The supreme court has ruled that courts may use their discretion to limit the scope and time limits of the cross examination
 * The defendant has the right to cross examine an informant who is the principle defense witness as to their true name and address
 * The defendant can cross examine a witness as to their status as a probationer

@@ -5,7 +5,7 @@
 ## Generally
 
 * Questions of joinder and severance arise when a person commits more than one crime or when two or more people join together to engage in criminal activity
-* Joinder is the process of joining two people or crimes together into one indictment or trial.  Severance is the process of undoing joinder
+* Joinder is the process of joining two people or crimes together into one indictment or trial. Severance is the process of undoing joinder
 * Courts seem to have a strong preference for joinder on the grounds of the efficiency of a single trial.
     * *However*, there are also fairness concerns that motivate the rules regarding severance
         * The defendant may become embarrassed or confounded by presenting multiple defenses
@@ -13,7 +13,7 @@
         * The jury may cumulate evidence of the various crimes and find guilt while if considered separately it would not so find
         * There may be a latent feeling of hostility engendered by the charging of several crimes as opposed to one
 * Strategic benefits of Severance
-    * Evidence admissible for crime X but not for crime Y will still be heard by jury if the crimes are joined.  Seek severance to keep info away from jury 
+    * Evidence admissible for crime X but not for crime Y will still be heard by jury if the crimes are joined. Seek severance to keep info away from jury 
     * Permit the defendant to testify in one case but keep silent in another
     * Avoid resenting seemingly inconsistent defenses to the jury
     * Severance motion could induce better deal in plea bargaining
@@ -45,7 +45,7 @@
 
 ### Notes
 
-* Rule 8 is all about the pleadings.  The motion is directed at the information in the pleadings and their relation to the standards set forth in Rule 8A or 8B.  The motion would be a motion for joinder or severance, but this is different from a motion for severance under Rule 14 which depends not on what has been plead, but rather on what has been proven at trial.
+* Rule 8 is all about the pleadings. The motion is directed at the information in the pleadings and their relation to the standards set forth in Rule 8A or 8B. The motion would be a motion for joinder or severance, but this is different from a motion for severance under Rule 14 which depends not on what has been plead, but rather on what has been proven at trial.
 * If you move for severance under Rule 8(a) or (b), it will require the
 government to say something about why the joinder is proper. The prosecutor usually will respond with likely proof. Essentially, it can be a
 good discovery device.
@@ -53,7 +53,7 @@ good discovery device.
     * Violation of rule 8 only requires reversal if it will prejudice the defendant
 * Rule 14 is highly context dependent. However there are a few general principles.
     * The presumption is in favor of joint trials for multiple defendants; courts are thinking heavily about the resource demands of multiple trials for the same criminal conduct.
-    * Rule 14 cases tend to place a great amount of faith in the limiting instruction to inoculate the jury from the prejudices that can arise in a joint trial.  This is referred to as “spillover prejudice”.  This is the risk that properly admitted evidence as to one defendant or one count/charge may spillover and be used against a different defendant or a charge for which it is inadmissible.
+    * Rule 14 cases tend to place a great amount of faith in the limiting instruction to inoculate the jury from the prejudices that can arise in a joint trial. This is referred to as “spillover prejudice”. This is the risk that properly admitted evidence as to one defendant or one count/charge may spillover and be used against a different defendant or a charge for which it is inadmissible.
     * Courts will often look to the jury’s verdict and if the jury returns a non-uniform verdict this is seen as evidence that the jury was able to properly follow the limiting instructions and properly compartmentalize the evidence as instructed    
 
 ## The Bruton Doctrine
