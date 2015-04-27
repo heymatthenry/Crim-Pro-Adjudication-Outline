@@ -51,7 +51,7 @@
     * See e.g *U.S. v. Costello*—allowing the use of hearsay evidence in a GJ proceeding
 
 
-## Challenging an indictment**
+## Challenging an indictment
 
 * A defense attorney may bring a challenge to an indictment prior to trial. This is usually done through a Motion to Dismiss under Fed. R. Crim. Pro. 12(b) or a comparable state rule.
 
@@ -95,4 +95,5 @@
         * cases may also be dismissed without a finding of prejudice to the defendant if the error is deemed fundamental.
         * These are the cases in which the structural protections of the GJ have been so compromised as to render the proceedings fundamentally unfair, allowing the presumption of prejudice
         * equal protection discrimination in selection of grand jury foreman is the exception and a claim you can win on. (*Vasquez v. Hillery*)
+
 

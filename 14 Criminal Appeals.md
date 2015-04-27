@@ -2,8 +2,13 @@
 
 * [Video on appeals and harmless error](https://www.youtube.com/watch?v=QYsPbC5DV1Q&list=UUW8X2enjxf9LsaZ_qci90jA "Duties to Disclose and Preserve Evidence - YouTube")
 
+## Generally
+
 * There is no constitutional right to a criminal appeal
     - But in a circumstance under which a jxn allows one, it can't be contingent on ∆'s ability to pay
+
+## Standards of Review
+
 * The standard for review in a criminal appeal depends on the issue:
     - Findings of fact are reviewed according to the **clear error** standard
     - Mixed questions of fact and law are reviewed based on an **abuse of discretion** standard

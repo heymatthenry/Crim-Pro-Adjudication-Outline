@@ -5,11 +5,14 @@
 ## Constitutional Requirements
 
 * The due process guarantee of the Fifth and 14th amendments gives the criminal accused the right to a fair trial. Sometimes this is only possible if the accused is accorded some discovery from the prosecution.
+* Reliability of proceedings is how DP is implicated
 
 ### *Brady v. Maryland*
 
 * In *Brady v. Maryland* the court held that the suppression of evidence that is favorable to the accused upon request violates due process where the evidence is material to guilt or punishment irrespective of good or bad faith of the prosecutor. 
     * Favorable to the accused is information that every prosecutor would think the defense would want to know about; that evidence which a reasonably skilled prosecutor should know could be fairly and properly used to advantage by the accused
+* *Giglio*: obligation to turn over impeachment material
+    * But, no obligation for impeachment material before guilty plea (*Ruiz*)
 
 ### *US v. Bagley*
 
