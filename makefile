@@ -1,2 +1,5 @@
 pdf:
-	pandoc *.md --template="test.template" --latex-engine=xelatex -o outline.pdf --toc
+	pandoc *.md --template="pdf.template" \
+				--latex-engine=xelatex -o outline.pdf \
+				--toc --toc-depth=2 \
+				-r markdown+yaml_metadata_block
